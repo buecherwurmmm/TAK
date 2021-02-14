@@ -8,9 +8,12 @@ https://github.com/namiko/assembly
 * Landschaft --> E
 * Kueche --> b
 * großer Seminarraum --> V
-* Partykeller
+* Partykeller --> J
 
-### Auftrag
+### Fragen
+* Räume mit Whiteboards? also jitsi Raum und wie kann/soll dann da das Whiteboard rein?
+
+#### Auftrag
 
 Liebe Caro,
  
