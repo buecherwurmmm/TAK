@@ -10,10 +10,7 @@ https://github.com/namiko/assembly
 * großer Seminarraum --> V
 * Partykeller --> J
 
-### Fragen
-* Räume mit Whiteboards? also jitsi Raum und wie kann/soll dann da das Whiteboard rein?
-
-#### Auftrag
+### Auftrag
 
 Liebe Caro,
  
@@ -82,3 +79,6 @@ für die Tages- und halbe TAK-Auswertung:
 für die Party: (mehr weiß die Partycrew)
 
 - n Tanzsaal, ne Bar mit Theke, Musik, ne underground spelunke (n keller oder so mit sesseln und mucke – rauchen erlaubt...)...
+
+### Fragen
+* Räume mit Whiteboards? also jitsi Raum und wie kann/soll dann da das Whiteboard rein?
