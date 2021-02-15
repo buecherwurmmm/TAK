@@ -4,11 +4,17 @@
 https://github.com/namiko/assembly
 
 ## Projekt
-**Maps**
+### Maps
 * Landschaft --> E
 * Kueche --> b
 * großer Seminarraum --> V
-* Partykeller
+* Partykeller --> J
+
+
+### Fragen
+* Räume mit Whiteboards? also jitsi Raum und wie kann/soll dann da das Whiteboard rein? Wozu wird Whiteboard genutzt?
+* Wo kommt die Musik her?
+* Wie notwendig ist der Tennisplatz?
 
 ### Auftrag
 
@@ -79,3 +85,4 @@ für die Tages- und halbe TAK-Auswertung:
 für die Party: (mehr weiß die Partycrew)
 
 - n Tanzsaal, ne Bar mit Theke, Musik, ne underground spelunke (n keller oder so mit sesseln und mucke – rauchen erlaubt...)...
+
