@@ -62,7 +62,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Partykeller\/partykeller.jason#LandschaftPartykeller2"
+                 "value":"Partykeller\/partykeller.json#LandschaftPartykeller2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -98,7 +98,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Partykeller\/partykeller.jason#LandschaftPartykeller"
+                 "value":"Partykeller\/partykeller.json#LandschaftPartykeller"
                 }],
          "type":"tilelayer",
          "visible":true,
