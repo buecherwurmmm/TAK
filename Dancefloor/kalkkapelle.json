@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/partykeller.json#DancefloorPartykeller"
+                 "value":"..\/Partykeller\/partykeller.json#DancefloorPartykeller"
                 }],
          "type":"tilelayer",
          "visible":true,
