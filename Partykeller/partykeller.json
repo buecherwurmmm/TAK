@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"landschaft.json#PartykellerLandschaft"
+                 "value":"..\/landschaft.json#PartykellerLandschaft"
                 }],
          "type":"tilelayer",
          "visible":true,
