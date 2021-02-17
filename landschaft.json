@@ -80,7 +80,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.vimeo.com\/video\/501103076&parent=testadventure.kalk.space"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
