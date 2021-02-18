@@ -253,7 +253,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Dancefloor\/kalkkapelle.json#PartykellerDancefloor"
+                 "value":"..\/Dancefloor\/dancefloor.json#PartykellerDancefloor"
                 }],
          "type":"tilelayer",
          "visible":true,
