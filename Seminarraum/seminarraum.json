@@ -169,7 +169,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"landschaft.json#SeminarraumLandschaf"
+                 "value":"..\/landschaft.json#SeminarraumLandschaft"
                 }],
          "type":"tilelayer",
          "visible":true,
