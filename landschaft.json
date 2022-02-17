@@ -152,7 +152,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pad.c3loc.de\/viZSuWSJRHq4dBmP4kta-Q#"
+                 "value":"https:\/\/md.ha.si\/bfVlTI4aQ8uJpMgKd4s80w#"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -440,7 +440,17 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"jitsiSitzecke1"
+                 "value":"Sitzecke1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"jitsi.freifunk-duesseldorf.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1357,7 +1367,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.8.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -2532,6 +2542,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.8",
  "width":100
 }
