@@ -296,11 +296,6 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"jitsi.freifunk-duesseldorf.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -314,6 +309,17 @@
          "id":67,
          "name":"jitsiSitzecke2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Sitzecke2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
